@@ -1,8 +1,8 @@
 class Gitid < Formula
   desc "CLI tool for seamlessly managing multiple Git identities across GitHub and GitLab"
   homepage "https://github.com/huvinesh/gitid"
-  url "https://github.com/huvinesh/gitid/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  url "https://github.com/huvinesh/gitid/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "ee9e442174a4f15d2ccdc1714e066bc3874e7eb5f520a2b91c42d297015db515"
   license "MIT"
 
   depends_on "rust" => :build
